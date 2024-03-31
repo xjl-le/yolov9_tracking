@@ -1,4 +1,4 @@
-# Real-time multi-object tracking and segmentation using Yolov9
+# Real-time multi-object tracking using Yolov9
 
 
 <div align="center">
